@@ -95,9 +95,8 @@ and produces accurate segmentation masks.
 
 | Input                             | Ground Truth                      | Prediction                        |
 | --------------------------------- | --------------------------------- | --------------------------------- |
-| ![](outputs/visuals/example1.png) | ![](outputs/visuals/example2.png) | ![](outputs/visuals/example3.png) |
-
-*(Add your 3–4 best outputs here)*
+<img width="1022" height="1425" alt="image" src="https://github.com/user-attachments/assets/4b032437-d257-4974-922a-1a7c056c7694" />
+<img width="1003" height="1425" alt="image" src="https://github.com/user-attachments/assets/b1073726-9205-46da-8d2f-1961e6941685" />
 
 ---
 
@@ -136,7 +135,7 @@ Example:
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/yourusername/prompted-drywall-segmentation
+git clone https://github.com/esipta217/prompted-drywall-segmentation
 cd prompted-drywall-segmentation
 pip install -r requirements.txt
 ```
@@ -166,7 +165,7 @@ python inference.py --image path.jpg --prompt "segment crack"
 
 ## 👤 Author
 
- Esipta
+Esipta
 
 ---
 
