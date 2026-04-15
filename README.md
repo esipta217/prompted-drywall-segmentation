@@ -166,7 +166,7 @@ python inference.py --image path.jpg --prompt "segment crack"
 
 ## 👤 Author
 
-* Your Name
+ Esipta
 
 ---
 
