@@ -170,4 +170,4 @@ Esipta
 
 ## License
 
-MIT, see LICENSE file.
+MIT — see `LICENSE`.
