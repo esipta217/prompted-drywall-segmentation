@@ -166,7 +166,7 @@ The current model runs at roughly 20 FPS without TTA on a T4, suitable for batch
 
 ## Author
 
-Esipta
+Esipta 
 
 ## License
 
